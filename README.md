@@ -8,16 +8,13 @@ Welcome to the **Student Exam Performance Prediction** project! This repository 
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Setup and Installation](#setup-and-installation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Transformation](#data-transformation)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Deployment](#deployment)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
+- Project Overview
+- Dataset
+- Setup and Installation
+- Exploratory Data Analysis
+- Data Transformation
+- Model Training and Evaluation
+- Deployment
 
 ---
 
@@ -34,11 +31,6 @@ The dataset contains information on students' scores in math, reading, and writi
 - **Lunch Type**
 - **Test Preparation Course Completion**
 - **Scores** in Writing, Reading, and Math
-
----
-
-## 📁 Project Structure
-
 
 ---
 
